@@ -6,9 +6,14 @@ git remote: kết nối local repo với remote repo
 git push origin master: đẩy code ừ local repo
 
 PC:\CodeGym\GitHtml> git init
+PS C:\CodeGym\GitHtml> git add .
 PS C:\CodeGym\GitHtml>  git config --global user.email nguyenhuutri331@gmail.com
 PS C:\CodeGym\GitHtml> git config --global user.name HuuTri331
+
 PS C:\CodeGym\GitHtml> git remote add origin https://github.com/HuuTri331/GitHtml.git
-PS C:\CodeGym\GitHtml> git add .
 PS C:\CodeGym\GitHtml> git commit -m "test"
 PS C:\CodeGym\GitHtml> git push origin master
+
+"- Git, Github là gì? Repository, Local Repository và Remote Repository
+- Các câu lệnh git: git init, git add, git comit, git remote, git push
+- HTML là gì? Các thẻ cơ bản img, a, p, h, input (Code Demo)"
