@@ -9,7 +9,13 @@ PC:\CodeGym\GitHtml> git init
 PS C:\CodeGym\GitHtml> git add .
 PS C:\CodeGym\GitHtml>  git config --global user.email nguyenhuutri331@gmail.com
 PS C:\CodeGym\GitHtml> git config --global user.name HuuTri331
+PS C:\CodeGym\GitHtml> git remote add origin https://github.com/HuuTri331/GitHtml.git
+PS C:\CodeGym\GitHtml> git commit -m "test"
+PS C:\CodeGym\GitHtml> git push origin master
 
+cac buoc update
+PC:\CodeGym\GitHtml> git init
+PS C:\CodeGym\GitHtml> git add .
 PS C:\CodeGym\GitHtml> git remote add origin https://github.com/HuuTri331/GitHtml.git
 PS C:\CodeGym\GitHtml> git commit -m "test"
 PS C:\CodeGym\GitHtml> git push origin master
